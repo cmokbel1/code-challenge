@@ -1,0 +1,47 @@
+* {
+  margin: 0 auto;
+}
+
+table {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid red;
+  text-align: center;
+  width: 350px;
+}
+
+
+tr {
+  border: 1px dashed red;
+  width: 100%;
+}
+
+ #getUsers {
+   display: block;
+  width: 100px;
+  height: 25px;
+  border-radius: 25px;
+  background-color:darkred;
+  color: whitesmoke;
+}
+
+#userPosts {
+  width: 900px;
+  height: 600px;
+  overflow: auto;
+  justify-content: center;
+  border: 2px solid red;
+  justify-content: space-between;
+} 
+
+h1 {
+  background-color: brown;
+  color: whitesmoke;
+  text-align: center;
+}
+
+h1 p {
+  background-color: gray;
+  color:antiquewhite;
+  font-weight:400;
+}
