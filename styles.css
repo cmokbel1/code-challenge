@@ -18,9 +18,8 @@ tr {
 
  #getUsers {
    display: block;
-  width: 100px;
+  width: 200px;
   height: 25px;
-  border-radius: 25px;
   background-color:darkred;
   color: whitesmoke;
 }
